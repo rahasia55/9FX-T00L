@@ -1,7 +1,7 @@
 [
   {
   "visibility": "VISIBLE",
-  "min_version": "1.5",
+  "min_version": "5.5",
   "app_name": "GFX Tools",
   "dialog_title": "App closed. Please switch to BS Tools and click Update.",
   "dialog_message": "aplikasi ditutup segera pindah ke aplikasi BS Tools, klik update",
